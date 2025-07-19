@@ -1,2 +1,2 @@
-To me ,this is the tool I use to hand in my homework
+里面包含蔡徐坤的原版视频，和经过Yolov10n处理过的视频，detect_kunkun.py是主要程序,导入视频并调用Yolov10并导出,Camera_Detection.py是一个拍照程序,我使用的是roboflow 训练模型,Best.pt是训练好的模型，但是好像是因为数据量太少，导致欠拟合，然后一直无法识别,所以我还是用的原版的yolov10n，Run是训练的一个合集
 
